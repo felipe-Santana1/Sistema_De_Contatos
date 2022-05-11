@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVJqnGJAtHCCR3c8m2RTgGTs9NdnT+nnVL9yAW6jYnlaUOxfqv7I5OixUWT8DZTSEBkdzVDmBvMFwK9+NJ0HoA==",
+  "dgSpecHash": "4mL2QZ4XFuRNZimVWN0wRN58AB8h7HcfrzEqGlqUQKrLFIOkSJdFP8JwUsLozrHo8+rDUu3Ano3ewilmjv0xrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj",
+  "projectFilePath": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Sistema_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felipe santana\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\felipe santana\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.16\\microsoft.aspnetcore.mvc.razor.extensions.5.0.16.nupkg.sha512",

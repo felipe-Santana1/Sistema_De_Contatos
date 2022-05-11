@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj": {}
+    "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Sistema_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj": {
+    "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Sistema_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj",
+        "projectUniqueName": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Sistema_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj",
         "projectName": "Controle_De_Contatos",
-        "projectPath": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj",
+        "projectPath": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Sistema_De_Contatos\\Controle_De_Contatos\\Controle_De_Contatos.csproj",
         "packagesPath": "C:\\Users\\felipe santana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Controle_De_Contatos\\obj\\",
+        "outputPath": "C:\\Users\\felipe santana\\Documents\\Estudos MVC\\Controle_De_Contatos\\Sistema_De_Contatos\\Controle_De_Contatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
